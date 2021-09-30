@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
-	"github.com/Shopify/kubeaudit/pkg/override"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/override"
 
 	"github.com/stretchr/testify/assert"
 )

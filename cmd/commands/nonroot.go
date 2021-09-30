@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/Shopify/kubeaudit/auditors/nonroot"
+	"github.com/gagan1510/kubeaudit/auditors/nonroot"
 	"github.com/spf13/cobra"
 )
 

@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/internal/k8sinternal"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/internal/k8sinternal"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

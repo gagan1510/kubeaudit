@@ -4,11 +4,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/auditors/all"
-	"github.com/Shopify/kubeaudit/config"
-	"github.com/Shopify/kubeaudit/internal/k8sinternal"
-	"github.com/Shopify/kubeaudit/internal/test"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/auditors/all"
+	"github.com/gagan1510/kubeaudit/config"
+	"github.com/gagan1510/kubeaudit/internal/k8sinternal"
+	"github.com/gagan1510/kubeaudit/internal/test"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

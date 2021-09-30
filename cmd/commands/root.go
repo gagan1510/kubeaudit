@@ -8,10 +8,10 @@ import (
 	"github.com/spf13/cobra"
 	apiv1 "k8s.io/api/core/v1"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/auditors/all"
-	"github.com/Shopify/kubeaudit/config"
-	"github.com/Shopify/kubeaudit/internal/k8sinternal"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/auditors/all"
+	"github.com/gagan1510/kubeaudit/config"
+	"github.com/gagan1510/kubeaudit/internal/k8sinternal"
 )
 
 var rootConfig rootFlags

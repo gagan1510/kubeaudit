@@ -3,9 +3,10 @@ package commands
 import (
 	"bytes"
 	"fmt"
-	"github.com/Shopify/kubeaudit/auditors/mounts"
-	"github.com/spf13/cobra"
 	"strings"
+
+	"github.com/gagan1510/kubeaudit/auditors/mounts"
+	"github.com/spf13/cobra"
 )
 
 const sensitivePathsFlagName = "denyPathsList"

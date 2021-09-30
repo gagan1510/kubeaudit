@@ -3,8 +3,8 @@ package limits
 import (
 	"fmt"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	v1 "k8s.io/api/core/v1"
 	k8sResource "k8s.io/apimachinery/pkg/api/resource"
 )

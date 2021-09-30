@@ -5,8 +5,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/Shopify/kubeaudit/internal/color"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/internal/color"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	log "github.com/sirupsen/logrus"
 )
 

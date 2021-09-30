@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/Shopify/kubeaudit/internal/k8sinternal"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/internal/k8sinternal"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	"gopkg.in/yaml.v3"
 	"k8s.io/client-go/kubernetes"
 )

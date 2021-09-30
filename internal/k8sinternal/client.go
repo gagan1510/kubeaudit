@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	log "github.com/sirupsen/logrus"
 	"k8s.io/apimachinery/pkg/version"
 	"k8s.io/client-go/kubernetes"

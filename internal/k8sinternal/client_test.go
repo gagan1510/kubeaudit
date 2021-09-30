@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	runtime "k8s.io/apimachinery/pkg/runtime"

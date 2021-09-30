@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 )
 
 const DefaultDenyNetworkPolicyName = "default-deny"

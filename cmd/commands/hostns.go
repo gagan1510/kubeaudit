@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/Shopify/kubeaudit/auditors/hostns"
+	"github.com/gagan1510/kubeaudit/auditors/hostns"
 	"github.com/spf13/cobra"
 )
 

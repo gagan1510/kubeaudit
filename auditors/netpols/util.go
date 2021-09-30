@@ -1,6 +1,6 @@
 package netpols
 
-import "github.com/Shopify/kubeaudit/pkg/k8s"
+import "github.com/gagan1510/kubeaudit/pkg/k8s"
 
 const AllNamespaces = ""
 

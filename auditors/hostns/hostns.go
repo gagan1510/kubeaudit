@@ -1,9 +1,9 @@
 package hostns
 
 import (
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
-	"github.com/Shopify/kubeaudit/pkg/override"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/override"
 )
 
 const Name = "hostns"

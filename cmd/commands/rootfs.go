@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"github.com/Shopify/kubeaudit/auditors/rootfs"
+	"github.com/gagan1510/kubeaudit/auditors/rootfs"
 	"github.com/spf13/cobra"
 )
 

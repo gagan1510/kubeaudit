@@ -4,11 +4,11 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/Shopify/kubeaudit/auditors/mounts"
+	"github.com/gagan1510/kubeaudit/auditors/mounts"
 
-	"github.com/Shopify/kubeaudit/auditors/capabilities"
-	"github.com/Shopify/kubeaudit/auditors/image"
-	"github.com/Shopify/kubeaudit/auditors/limits"
+	"github.com/gagan1510/kubeaudit/auditors/capabilities"
+	"github.com/gagan1510/kubeaudit/auditors/image"
+	"github.com/gagan1510/kubeaudit/auditors/limits"
 	"gopkg.in/yaml.v3"
 )
 

@@ -3,7 +3,7 @@ package privesc
 import (
 	"fmt"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 )
 
 type fixBySettingAllowPrivilegeEscalationFalse struct {

@@ -3,9 +3,9 @@ package kubeaudit_test
 import (
 	"testing"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/auditors/all"
-	"github.com/Shopify/kubeaudit/config"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/auditors/all"
+	"github.com/gagan1510/kubeaudit/config"
 	"github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -3,9 +3,9 @@ package kubeaudit
 import (
 	"bytes"
 
-	"github.com/Shopify/kubeaudit/internal/k8sinternal"
-	"github.com/Shopify/kubeaudit/internal/yaml"
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/internal/k8sinternal"
+	"github.com/gagan1510/kubeaudit/internal/yaml"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 )
 
 func fix(results []Result) ([]byte, error) {

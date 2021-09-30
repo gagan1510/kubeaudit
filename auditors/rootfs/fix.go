@@ -3,7 +3,7 @@ package rootfs
 import (
 	"fmt"
 
-	"github.com/Shopify/kubeaudit/pkg/k8s"
+	"github.com/gagan1510/kubeaudit/pkg/k8s"
 )
 
 type fixReadOnlyRootFilesystem struct {

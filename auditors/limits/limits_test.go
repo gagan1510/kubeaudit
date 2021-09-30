@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Shopify/kubeaudit/internal/test"
+	"github.com/gagan1510/kubeaudit/internal/test"
 	"github.com/stretchr/testify/assert"
 )
 

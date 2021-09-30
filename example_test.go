@@ -5,11 +5,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Shopify/kubeaudit"
-	"github.com/Shopify/kubeaudit/auditors/all"
-	"github.com/Shopify/kubeaudit/auditors/apparmor"
-	"github.com/Shopify/kubeaudit/auditors/image"
-	"github.com/Shopify/kubeaudit/config"
+	"github.com/gagan1510/kubeaudit"
+	"github.com/gagan1510/kubeaudit/auditors/all"
+	"github.com/gagan1510/kubeaudit/auditors/apparmor"
+	"github.com/gagan1510/kubeaudit/auditors/image"
+	"github.com/gagan1510/kubeaudit/config"
 
 	"github.com/sirupsen/logrus"
 	log "github.com/sirupsen/logrus"
